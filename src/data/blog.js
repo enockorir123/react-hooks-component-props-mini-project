@@ -27,5 +27,6 @@ const blogData = {
     },
   ],
 };
+<header />
 
 export default blogData;
